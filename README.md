@@ -47,3 +47,12 @@ npm start
 ### 6. Open the browser
 
 Open the browser and go to `http://localhost:3000`
+
+## Notes
+- Start the backend before running the frontend.
+- Make sure the model and images are placed in the correct directories.
+
+---
+
+## Credits
+This is a group project developed with colleagues.  
